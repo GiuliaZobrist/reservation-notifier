@@ -1,0 +1,34 @@
+{
+  "locations": [
+    {
+      "name": "Sendestandort Uetliberg",
+      "url": "https://openhouse-zuerich.org/orte/sendestandort-uetliberg-2025/"
+    },
+    {
+      "name": "Haus im Garten",
+      "url": "https://openhouse-zuerich.org/orte/haus-im-garten/"
+    },
+    {
+      "name": "Feldmeilen Haus Staehelin",
+      "url": "https://openhouse-zuerich.org/orte/feldmeilen-haus-staehelin/"
+    },
+    {
+      "name": "Haus Don Dario",
+      "url": "https://openhouse-zuerich.org/orte/haus-don-dario/",
+      "description": "Hofacherstrasse 10, 8185 Winkel"
+    },
+    {
+      "name": "Ersatz und Sanierung Kolonie 13",
+      "url": "https://openhouse-zuerich.org/orte/ersatz-und-sanierung-kolonie-13/",
+      "description": "Goldbrunnenstrasse 162, 8055 Zürich"
+    },
+    {
+      "name": "Wohnhaus Flurstrasse",
+      "url": "https://openhouse-zuerich.org/orte/wohnhaus-flurstrasse/"
+    },
+    {
+      "name": "Bellerivestrasse",
+      "url": "https://openhouse-zuerich.org/orte/bellerivestrasse/"
+    }
+  ]
+}

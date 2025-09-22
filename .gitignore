@@ -1,0 +1,26 @@
+# secrets (Telegram token, chat ID)
+.env              
+# Python
+# Ignore all __pycache__ folders anywhere
+**/__pycache__/
+__pycache__/
+.pytest_cache/
+# Ignore compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.cpython-311.pyc
+
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs/editors
+.vscode/
+.idea/
