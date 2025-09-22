@@ -25,7 +25,7 @@ Origianlly built for signup to ``openhouse-zuerich.ch`` with notification delive
    - Test the bot via ``poetry run python run send_test_telegram.py`` 
 
 4. **Create a .env file**
-    In main folder create ``.env``. Add this content:
+    In main folder rename ``.env_template``to ``.env`` and modify this content:
     ```
     TELEGRAM_TOKEN=your_token_here
     CHAT_ID=your_chat_id_here
