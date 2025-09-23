@@ -1,7 +1,7 @@
 # 📢 Website Change Notifier
 
 A lightweight Python project that **scrapes a website** and **sends notifications** when changes are detected.  
-Origianlly built for signup to ``openhouse-zuerich.ch`` with notification delivery via **Telegram Bot**.
+Originally built for signup to ``openhouse-zuerich.ch`` with notification delivery via **Telegram Bot**.
 
 ---
 
